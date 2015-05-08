@@ -36,7 +36,7 @@
     "mocha": "^2.2.4"
   },
   "dependencies": {
-    "connect-prism": "^1.0.3",
+    "connect-prism": "seglo/connect-prism#0170117",
     "lodash": "^3.7.0"
   },
   "peerDependencies": {
